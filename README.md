@@ -44,6 +44,9 @@ This project explores the statistical properties of a specialized "Tongue Twiste
 - [ ] Integration of Lemmatization (to group base word forms)
 - [ ] Comparison with the Brown Corpus for function vs. content word ratios
 
+## Explore the Exploration
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=e-can-code/Small-Corpus-Exploration)
+
 ---
 
 ### 📧 Contact & Submission
